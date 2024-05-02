@@ -1,0 +1,4 @@
+ID: 3
+Type: Humidity Sensor
+Name: Aris
+Precision: 0.2

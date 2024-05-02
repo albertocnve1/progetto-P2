@@ -1,0 +1,4 @@
+ID: 1
+Type: Dust Sensor
+Name: polvere
+Precision: 0.1

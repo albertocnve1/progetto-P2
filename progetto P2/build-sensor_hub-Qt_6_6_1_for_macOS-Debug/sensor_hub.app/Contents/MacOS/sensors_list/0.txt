@@ -1,0 +1,4 @@
+ID: 0
+Type: Temperature Sensor
+Name: caca
+Precision: 0.1

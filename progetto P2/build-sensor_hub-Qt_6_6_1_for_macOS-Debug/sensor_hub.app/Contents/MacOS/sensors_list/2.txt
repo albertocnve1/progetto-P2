@@ -1,0 +1,4 @@
+ID: 2
+Type: Temperature Sensor
+Name: due
+Precision: 0.2
